@@ -55,4 +55,18 @@ text-align: left;
 font-style: bold;
 text-decoration: underline #e7af00;
 }
-
+.my-box {
+background: #f0ccff;
+padding-top: 10px;
+padding-bottom: 30px;
+border: 4px dashed #20cc20;
+margin: 20px;
+}
+.my-zaza {
+	background-color: #FFD87D;
+}
+.my-robbutt {
+	width: 76px;
+	height: 58px;
+	background-color: #FFD87C;
+}
