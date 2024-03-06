@@ -21,6 +21,10 @@ In order to pass the individual assessment, you must modify the following elemen
 - Publish it with **GitHub pages**: Add the link to your CV in the _README.md_ file (yes, this one). We'll be checking your work by clicking on that link, and we'll also check that it works on a mobile phone.
 - Check and **fix any errors**: there should be no broken links or images, and there must be no error when checking your CV on <https://validator.w3.org/>
 
+1. The GitHub repository can be reached at:
+https://github.com/HristiyanDimitrov/PRJ4_2324_220090_Class2_CV
+2. The web page’s URL is: https://HristiyanDimitrov.github.io/PRJ4_2324_220090_Class2_CV
+
 ## Image credits
 
 - Emojis: Twemoji by Twitter - https://twemoji.twitter.com/ - Licensed under Creative Commons Attribution 4.0 (CC-BY-4.0)
